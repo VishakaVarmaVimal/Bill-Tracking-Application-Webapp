@@ -19,7 +19,7 @@
     "express-fileupload": "^1.1.6",
     "joi": "^14.3.1",
     "joi-date-extensions": "^1.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mocha": "^7.0.0",
     "mockgoose": "^8.0.4",
     "morgan": "^1.9.1",
